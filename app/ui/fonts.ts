@@ -7,4 +7,3 @@ export const lusitana = Lusitana({
     subsets: ['latin'],
   });
 
-console.log(lusitana);
